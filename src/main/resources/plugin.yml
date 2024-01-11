@@ -1,0 +1,9 @@
+name: SimplySit
+author: Waldy
+version: '${project.version}'
+main: com.waldy.simplysit.SimplySit
+api-version: '1.20'
+commands:
+  sit:
+    description: sit down
+    usage: /<command>
